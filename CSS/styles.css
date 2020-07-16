@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+h1{
+    font-size: 6.75rem;
+    color: #202040;
+    font-family: 'Shadows Into Light', cursive;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 2rem;
+    color: #202060;
+    font-family: 'Baloo 2', cursive;
+}
+h3{
+    color: #602080;
+    font-family: 'Baloo 2', cursive;
+}
+p{
+    color: #b030b0;
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    border-color: #d891da;
+    width: 5%;
+}
+a{
+    color: #b9534a;
+    text-decoration: none;
+}
+a:hover{
+    color: #3f0b06;
+}
+.bottom-container{
+    background-color: #ffa299;
+    padding: 50px 0 20px;
+}
+.middle-container{
+    background-color: #fbcffc;
+    padding: 100px;
+}
+.top-container{
+    background-color: #cff1ef;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 12rem;
+    bottom: 40%;
+}
+.Stacey-Profile{
+    border-radius: 100%;
+}
+.author-credit{
+    font-size: .5rem;
+}
+.mountain{
+    width: 50%;
+    height: 30%;
+}
+.Im-Stacey{
+    font-weight: normal;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
+    margin: 100px auto;
+}
+.double-bass{
+    width: 50%;
+}
+.swimming{
+    width: 50%;
+}
+.topedges{
+    padding-top: 100px;
+}
+.bottomedges{
+    padding-bottom: 100px;
+}
+.btn{
+    background: #AD6989;
+    background-image: -webkit-linear-gradient(top, #AD6989, #562349);
+    background-image: -moz-linear-gradient(top, #AD6989, #562349);
+    background-image: -ms-linear-gradient(top, #AD6989, #562349);
+    background-image: -o-linear-gradient(top, #AD6989, #562349);
+    background-image: linear-gradient(to bottom, #AD6989, #562349);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    border: solid #CD96B0 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+.btn:hover {
+    border: solid #CD96B0 1px;
+    background: #8a4478;
+    background-image: -webkit-linear-gradient(top, #db80aa, #8a4478);
+    background-image: -moz-linear-gradient(top, #db80aa, #8a4478);
+    background-image: -ms-linear-gradient(top, #db80aa, #8a4478);
+    background-image: -o-linear-gradient(top, #db80aa, #8a4478);
+    background-image: linear-gradient(to bottom, #db80aa, #8a4478);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.footer-link{
+    padding: 5px 30px;
+}
